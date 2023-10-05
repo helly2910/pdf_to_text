@@ -1,0 +1,7 @@
+pip install Flask
+pip install Werkzeug
+
+pip install PyMuPDF
+
+PyMuPDF==1.18.19
+
